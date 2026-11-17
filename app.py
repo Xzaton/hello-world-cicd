@@ -1,3 +1,4 @@
+# Testing automatic GitHub Actions triggering
 def hello_world():
     return "Hello, DevOps!"
 
